@@ -1,0 +1,1 @@
+\(\("tropical disease" OR "zoonotic disease" OR "zoonotic pathogen"\) AND \("infectious disease" OR "neglected tropical disease" OR "public health" OR "risk factor" OR "borne disease" OR "rights reserved" OR neotropics OR forest\)\)
